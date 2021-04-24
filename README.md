@@ -59,6 +59,8 @@ To include a template in HTML, create a `tmpl`-tag like in the example shows bel
   </body>
 </html>
 ```
+
+The file extension for template files linked from HTML files is arbitrary and is up to you to set a standard.
 The file `head.tmpl` may contain code like:
 
 ```html
