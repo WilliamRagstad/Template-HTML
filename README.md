@@ -1,10 +1,9 @@
 <div align="center">
-    <h1>
-        <img src="./assets/drop.png" width="60px"/>
-        TMPL - Templates for HTML
-    </h1>
+    <img src="./assets/drop.png" width="60px"/>
+    <h1>TMPL - Templates for HTML</h1>
     <h3>A templating engine for generating static HTML files.</h3>
 </div>
+
 
 
 # Introduction
