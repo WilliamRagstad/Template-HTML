@@ -1,2 +1,2 @@
-# Template-HTML
- A templating engine for generating static HTML files
+# TMPL - Templates for HTML
+ A templating engine for generating static HTML files.
