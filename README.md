@@ -1,8 +1,11 @@
 <div align="center">
-     <img src="https://webstockreview.net/images/fountain-clipart-free-water-droplet-19.png" width="100px" />
-     <h1>TMPL - Templates for HTML</h1>
-     <p>A templating engine for generating static HTML files.</p>
+    <h1>
+        <img src="./assets/drop.png" width="60px"/>
+        TMPL - Templates for HTML
+    </h1>
+    <h3>A templating engine for generating static HTML files.</h3>
 </div>
+
 
 # Introduction
 TMPL is a flexible templating engine for bundling HTML files containing import tags into static, production ready files.
