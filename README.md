@@ -24,8 +24,6 @@ Compile a set of files
 This is the main command you will be using.
 
 ```bash
-Executing command: run
-
    Usage: tmpl run [files] (options)
 
    Options:
@@ -35,8 +33,6 @@ Executing command: run
         --outF [file]           - Custom output file if single input file.
         --outD [path]           - Directory to write output files to.
         --outS [suffix]         - Change output files name suffixes.
-
-Successfully finished without any errors!
 ```
 
 ## Files
