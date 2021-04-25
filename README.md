@@ -1,14 +1,14 @@
 <div align="center">
     <img src="./assets/drop.png" width="60px"/>
-    <h1><code>TMPL //Templates for HTML</code></h1>
-    <h3>A templating engine for generating static HTML files.</h3>
+    <h1><code>TMPL</code></h1>
+    <h3>Simple HTML templating engine.</h3>
 </div>
 
 
 
 # Introduction
 TMPL is a flexible templating engine for bundling HTML files containing import tags into static, production ready files.
-The main reason the TMPL project was created was the absence of simple standalone template compilers with simple and intuitive syntax. This became our vision when designing the semantics and developer experience for TMPL.
+The main reason the TMPL project was created was the absence of simple standalone template compilers for generating static HTML with simple and intuitive syntax. This became our vision when designing the semantics and developer experience for TMPL.
 
 # Install
 The engine is built for Deno using TypeScript, but features a standalone executable file for all platforms and build times.
