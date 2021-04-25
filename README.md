@@ -1,5 +1,6 @@
 <div align="center">
-    <h1><code> <img src="./assets/drop.png" width="60px"/><br> TMPL </code></h1>
+    <img src="./assets/drop.png" width="60px"/>
+    <h1> TMPL </h1>
     <h3>Simple HTML templating engine.</h3>
 </div>
 
